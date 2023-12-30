@@ -10,7 +10,7 @@ Hope you all enjoy your Coding Journey!! <br>
 * Aftre completion of tasks make sure to update the excel sheet and upload the links to completed questions with correct question numbers on the drive Folder.<br>
 * Be active, don't shy away from asking doubts, make the best of this repo.
 
-Week 3 updated!
+Week 4 updated!
 
 Go to the [wiki](https://github.com/Shagun-Mittal/IEEE_MC_Coding2023/wiki) and start learning!! <br> 
 <br>
